@@ -7,7 +7,7 @@ This is the data dashboard challenge for the Spring 2025 BIS 412 Advanced Data V
 Challenge created by and made for the Spring 2025 BIS 412 Advanced Data Visualization course at the University of Washington Bothell.
 
 - 📊 Challenge created by and made for the Spring 2025 BIS 412 Advanced Data Visualization course at the University of Washington Bothell.
-- ✍️ Authored by
+- ✍️ Authored by Team "Cool Name":
     - Amrit Kaur [@amrit-29](https://github.com/amrit-29)
     - Axel Madsen [@axemadsen](https://github.com/axemadsen)
     - Gabriela Marroquin [@gabsml48](https://github.com/gabsml48)
