@@ -1,6 +1,6 @@
-# data-challenge-EV-in-WA
+# Data Visualization Challenge "Powering the Future: Visualizing Electric Vehicle Trends in Washington State"
 
-This is the data dashboard challenge for the Spring 2025 BIS 412 Advanced Data Visualization course at the University of Washington Bothell. The challenge explores electric vehicle (EV) data from Washington State to visualizethe spread and growth of electric vehicle adoption across Washington State.
+This is the data dashboard challenge for the Spring 2025 BIS 412 Advanced Data Visualization course at the University of Washington Bothell. The challenge explores electric vehicle data from Washington State to visualizethe spread and growth of electric vehicle adoption across Washington State.
 
 # Overview
 
