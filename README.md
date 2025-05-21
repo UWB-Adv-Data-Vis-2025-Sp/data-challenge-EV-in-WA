@@ -36,6 +36,7 @@ In addition to the 4 charts listed above, the dashboard should also include an "
 - list of roles and responsibilities (including who has been the primary creator of each chart - each team member is expected to be responsible for at least a single chart)
 - summary of key achievements and main challenges team faced when creating the dashboard,
 - references list with citations (following APA format) on data sources and any literature used.
+- 
 After you complete this Dashboard Report R Markdown file, knit it as .html file, and push both .Rmd and .html files onto your team repository. Push the Markdown file(s) with your code used when creating a dashboard onto your repository as well.
 
 
